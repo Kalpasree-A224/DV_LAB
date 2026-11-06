@@ -1,0 +1,24 @@
+EXPERIMENT 1: Introduction to Various Data Visualization Tools
+
+AIM
+To study and compare commonly used data visualization tools and understand where each tool is useful.
+
+THEORY / EXPLANATION
+Data visualization presents information through charts, graphs, maps and dashboards. It helps convert raw values into a form that is easier to explore and interpret. A good visualization should communicate the main message accurately, use suitable scales and labels, and avoid unnecessary decoration.
+
+Microsoft Excel is useful for quick charts and spreadsheet-based analysis. Python provides programmable visualization through Matplotlib, Seaborn and Plotly. R supports statistical graphics through base graphics and ggplot2. Tableau is designed for interactive visual analysis using drag-and-drop shelves and dashboards. Power BI combines data modelling, reporting and interactive business intelligence. Looker Studio supports browser-based reports and dashboards, particularly for connected data sources.
+
+The tools differ in learning curve, customization, interactivity, data connectivity and sharing options. The best choice depends on the data, task, audience and available software.
+
+PROCEDURE
+1. Open the available tools or their official product pages.
+2. Identify the main workspace and the types of data each tool can import.
+3. Compare chart creation, customization, interactivity and sharing.
+4. Note one suitable use case for each tool.
+5. Summarize the comparison in the output sheet.
+
+RESULT
+The major visualization tools were identified and compared. Spreadsheet tools are convenient for quick summaries, Python and R provide flexible programmatic analysis, and Tableau, Power BI and Looker Studio support interactive reporting. The suitable tool depends on the analysis requirement.
+
+PRACTICAL NOTE
+This is a study-oriented experiment. Use the comparison table in Output as the practical observation. No single software is mandatory for this experiment.
